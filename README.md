@@ -9,6 +9,3 @@ To get started with the project, follow these steps:
 1. Check out the `master` branch of the repository.
 2. Pull the latest changes to ensure you have the most up-to-date code.
 
-```bash
-git checkout master
-git pull origin master
